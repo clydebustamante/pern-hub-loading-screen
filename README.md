@@ -1,4 +1,4 @@
 #   PERNHUB PRELOAD
 
 ### 📱 PREVIEW
-<img src="sample.JPG" alt="preview here"/>
+<video source="preview.mp4"></video>
