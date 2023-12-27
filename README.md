@@ -1,4 +1,4 @@
 #   PERNHUB PRELOAD
 
 ### 📱 PREVIEW
-<video source="preview.mp4"></video>
+![](https://github.com/pern-hub-loading-screen/Ypreview.gif)
